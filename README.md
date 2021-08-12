@@ -13,7 +13,7 @@ The source code of Deep Sketch-guided Cartoon Video Inbetweening by Xiaoyu Li, B
 ### Use the Pre-trained Models
 You can download the pre-trained model [here](https://drive.google.com/file/d/1wn4MfKv2bTH_EWobZB-nE875s9l913rq/view?usp=sharing).
 
-Run the following commands for evaluting the frame synthesis model and full model:
+Run the following commands for evaluating the frame synthesis model and full model:
 ```bash
 python eval_synthesis.py
 python eval_full.py
