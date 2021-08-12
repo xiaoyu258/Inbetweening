@@ -49,12 +49,9 @@ Before you train the full model, you must train the frame synthesis model first 
 If you find our work useful, please consider citing:
 ```BibTeX
 @article{li2021deep,
-  author    = {Li, Xiaoyu 
-               and Zhang, Bo 
-               and Liao, Jing
-               and Sander, Pedro},
-  title     = {Deep Sketch-guided Cartoon Video Inbetweening},
+  author    = {Li, Xiaoyu and Zhang, Bo and Liao, Jing and Sander, Pedro},
   journal   = {IEEE Transactions on Visualization and Computer Graphics},
   year      = {2021},
+  publisher = {IEEE}
 }
 ```
